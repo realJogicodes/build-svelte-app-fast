@@ -1,10 +1,32 @@
 # Svelte App Fast - Build Script Documentation
 
-This repository contains a build script (`build_script.sh`) that automates the build process of Svelte App Fast on Ubuntu 24.04 LTS VPS hosting solutions. It _might_ also work for other svelte applications and Ubuntu versions.
+This repository contains a build script (`build-svelte-app-fast.sh`) that automates the build process of Svelte App Fast on Ubuntu 24.04 LTS VPS hosting solutions. It _might_ also work for other svelte applications and Ubuntu versions.
+
+## Getting Started
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/realJogicodes/build-svelte-app-fast.git
+```
+
+2. Navigate to the repository:
+
+```bash
+cd build-svelte-app-fast
+```
+
+3. Make the script executable:
+
+```bash
+chmod +x build-svelte-app-fast.sh
+```
 
 ## Build Script Overview
 
-The `build_script.sh` is an automation script that handles the build process with robust error handling and logging capabilities.
+The `build-svelte-app-fast.sh` is an automation script that handles the build process with robust error handling and logging capabilities.
 
 ### Key Features
 
