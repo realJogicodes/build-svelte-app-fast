@@ -68,7 +68,7 @@ All operations are logged with timestamps in two locations:
 To run the build script:
 
 ```bash
-./build_script.sh
+./build-svelte-app-fast.sh
 ```
 
 The script will handle the entire build and deployment process automatically, with detailed logging of each step.
